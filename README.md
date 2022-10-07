@@ -1,12 +1,14 @@
 ## Lightweight Periocular Recognition through Low-bit Quantization
-### Jan Niklas Kolf$^{1,2}$, Fadi Boutros$^{1,2}$, Florian Kirchbuchner$^{1,2}$, Naser Damer$^{1,2}$
+### Jan Niklas Kolf, Fadi Boutros, Florian Kirchbuchner, Naser Damer
 
-##### $^{1}$Fraunhofer Institute for Computer Graphics Research IGD, Darmstadt, Germany
-##### $^{2}$Department of Computer Science, TU Darmstadt, Darmstadt, Germany
+##### Fraunhofer Institute for Computer Graphics Research IGD, Darmstadt, Germany
+##### Department of Computer Science, TU Darmstadt, Darmstadt, Germany
 <br/>
 
 #### Accepted at International Joint Conference on Biometrics 2022
 <br/>
+
+![img](https://raw.githubusercontent.com/jankolf/ijcb-periocular-quantization/main/imgs/pipeline.png)
 
 ### Pre-Trained Models
 
