@@ -8,14 +8,12 @@
 #### Accepted at International Joint Conference on Biometrics 2022
 <br/>
 
-![img](https://raw.githubusercontent.com/jankolf/ijcb-periocular-quantization/main/imgs/pipeline.png)
+![img](https://share.jankolf.de/s/8A24qzRg5wC2sGG/preview)
 
 ### Pre-Trained Models
 
-Verification Models: [download](https://drive.google.com/file/d/1J-UxFs-a6WQ79P2s_NEioGqmH-trQgWc/view?usp=sharing)
+All models for verification and identifcation scenario as well as the ablation study are available for download: [download](https://share.jankolf.de/s/nwzjWgMcoCDe9r3)
 <br/>
-
-Identification Models: [download](https://drive.google.com/file/d/19nDcGicdsm3-HeIhCyCRyjeFssPuCz1x/view?usp=sharing)
 
 Pytorch 1.11.0 and Python 3.8.12 were used to train the models.
 
